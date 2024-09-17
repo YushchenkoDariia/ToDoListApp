@@ -1,0 +1,10 @@
+D:\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.csproj.AssemblyReference.cache
+D:\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.Form1.resources
+D:\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.Properties.Resources.resources
+D:\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.csproj.GenerateResource.cache
+D:\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.csproj.CoreCompileInputs.cache
+D:\ToDoListApp\ToDoListApp\bin\Debug\ToDoListApp.exe.config
+D:\ToDoListApp\ToDoListApp\bin\Debug\ToDoListApp.exe
+D:\ToDoListApp\ToDoListApp\bin\Debug\ToDoListApp.pdb
+D:\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.exe
+D:\ToDoListApp\ToDoListApp\obj\Debug\ToDoListApp.pdb
